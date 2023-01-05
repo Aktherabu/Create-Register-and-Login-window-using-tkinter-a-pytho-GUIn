@@ -1,2 +1,2 @@
-# Create-Register-and-Login-window-using-tkinter-a-pytho-GUIn
-Create a Login/registration window using tkinter a python GUI library which takes two inputs first log in or register.For register click it which in turn takes 6 input as firstname,lastname,email_Id,age,username,password, and it is stored in the csv file formate.which can be used for later use for login purpose.
+# Create-Signup-and-Login-window-using-tkinter-a-pytho-GUIn
+Create a Login/registration window using tkinter a python GUI library which takes two inputs initially log in or sign up.If you press register[Sign_up] then it take to the new window which ask you to enter the personal details which includes 6 fields after that press register and then those datas are stored in the csv file, which can be use to validate while login later.If you press login then ask you to enter the username and password.
